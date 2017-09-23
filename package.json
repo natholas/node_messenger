@@ -1,0 +1,23 @@
+{
+  "name": "node_messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natholas/node_messenger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natholas/node_messenger/issues"
+  },
+  "homepage": "https://github.com/natholas/node_messenger#readme",
+  "dependencies": {
+    "node": "^8.3.0",
+    "request": "^2.82.0"
+  }
+}
